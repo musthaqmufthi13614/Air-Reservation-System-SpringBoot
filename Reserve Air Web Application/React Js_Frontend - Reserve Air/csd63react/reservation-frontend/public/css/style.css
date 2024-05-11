@@ -1,0 +1,53 @@
+#first-label{
+	background-color: #ff2225;
+	color: #fff;
+}
+
+#nav-color{
+	background-color: burlywood;
+}
+
+#btn1{
+	margin-left: 1rem;
+}
+#btn2{
+	margin-left: 3.5rem;
+}
+#cardheader1{
+	background-color: moccasin;
+	
+}
+#nav1{
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 1.5rem;
+}
+
+#navtext1{
+	color: rgb(122, 115, 5);
+}
+
+#navtext1:hover{
+	color: rgb(54, 53, 42);
+}
+
+#map {
+    min-height: 500px;
+    
+  }
+
+ .admn-fltinf{
+
+		margin-left: 375px;
+ } 
+
+.pymntgt{
+
+	margin-top: 100px;
+	margin-left: 375px;
+
+}
+
+.Appfbgg{
+	/* margin-left: 675px; */
+}
